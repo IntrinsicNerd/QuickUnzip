@@ -1,0 +1,14 @@
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\bin\Debug\MassUnzip.exe.config
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\bin\Debug\MassUnzip.exe
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\bin\Debug\MassUnzip.pdb
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.csprojResolveAssemblyReference.cache
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.Form1.resources
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.Properties.Resources.resources
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.csproj.GenerateResource.Cache
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.exe
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.pdb
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\bin\Debug\MassUnzip.exe.manifest
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\bin\Debug\MassUnzip.application
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.exe.manifest
+C:\Users\Nick\source\repos\MassUnzip\MassUnzip\obj\Debug\MassUnzip.application
